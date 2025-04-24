@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deembe
-- 👀 I’m a retired developer (Java - Desktop / Server / J2ME Mobile, RDNMS SQL, Mainframe Cobol, Microsoft VB, exploring GitHub out of curiosity...
+- 👀 I’m a retired developer (Java - Desktop / Server / J2ME Mobile, RDNMS SQL, Mainframe Cobol, Microsoft VB
 
 
 
